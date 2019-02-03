@@ -5,8 +5,8 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
-[archive](./tags/tag-archive.md).
-[category](./categories/category-archive.md).
+[archive](./tags/tag-archive.html).
+[category](./categories/category-archive.html).
 
 There should be whitespace between paragraphs.
 
