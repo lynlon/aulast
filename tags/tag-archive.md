@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 
 ## 这是一个测试页面 
